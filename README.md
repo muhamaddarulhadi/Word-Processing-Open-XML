@@ -1,2 +1,47 @@
-# Word-Processing-Open-XML
-Word Processing Open XML
+### Word-Processing-Open-XML
+
+---
+
+#### Reference
+
+1. [word-processing](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/word-processing.md)
+2. [working-with-wordprocessingml-tables](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/working-with-wordprocessingml-tables.md)
+3. [working-with-wordprocessingml-documents](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/working-with-wordprocessingml-documents.md)
+4. [structure-of-a-wordprocessingml-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/structure-of-a-wordprocessingml-document.md)
+5. [how-to-validate-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-validate-a-word-processing-document.md)
+6. [how-to-set-a-custom-property-in-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-set-a-custom-property-in-a-word-processing-document.md)
+7. [how-to-retrieve-comments-from-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-retrieve-comments-from-a-word-processing-document.md)
+8. [how-to-retrieve-application-property-values-from-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-retrieve-application-property-values-from-a-word-processing-document.md)
+9. [how-to-replace-the-theme-part-in-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-replace-the-theme-part-in-a-word-processing-document.md)
+10. [how-to-replace-the-styles-parts-in-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-replace-the-styles-parts-in-a-word-processing-document.md)
+11. [how-to-replace-the-header-in-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-replace-the-header-in-a-word-processing-document.md)
+12. [how-to-remove-the-headers-and-footers-from-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-remove-the-headers-and-footers-from-a-word-processing-document.md)
+13. [how-to-remove-hidden-text-from-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-remove-hidden-text-from-a-word-processing-document.md)
+14. [how-to-open-and-add-text-to-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-open-and-add-text-to-a-word-processing-document.md)
+15. [how-to-open-a-word-processing-document-from-a-stream](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-open-a-word-processing-document-from-a-stream.md)
+16. [how-to-open-a-word-processing-document-for-read-only-access](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-open-a-word-processing-document-for-read-only-access.md)
+17. [how-to-insert-a-table-into-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-insert-a-table-into-a-word-processing-document.md)
+18. [how-to-insert-a-picture-into-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-insert-a-picture-into-a-word-processing-document.md)
+19. [how-to-insert-a-comment-into-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-insert-a-comment-into-a-word-processing-document.md)
+20. [how-to-extract-styles-from-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-extract-styles-from-a-word-processing-document.md)
+21. [how-to-create-and-add-a-paragraph-style-to-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-create-and-add-a-paragraph-style-to-a-word-processing-document.md)
+22. [how-to-create-and-add-a-character-style-to-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-create-and-add-a-character-style-to-a-word-processing-document.md)
+23. [how-to-create-a-word-processing-document-by-providing-a-file-name](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-create-a-word-processing-document-by-providing-a-file-name.md)
+24. [how-to-convert-a-word-processing-document-from-the-docm-to-the-docx-file-format](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-convert-a-word-processing-document-from-the-docm-to-the-docx-file-format.md)
+25. [how-to-change-the-print-orientation-of-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-change-the-print-orientation-of-a-word-processing-document.md)
+26. [how-to-change-text-in-a-table-in-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-change-text-in-a-table-in-a-word-processing-document.md)
+27. [how-to-apply-a-style-to-a-paragraph-in-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-apply-a-style-to-a-paragraph-in-a-word-processing-document.md)
+28. [how-to-add-tables-to-word-processing-documents](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-add-tables-to-word-processing-documents.md)
+29. [how-to-accept-all-revisions-in-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-accept-all-revisions-in-a-word-processing-document.md)
+30. [Word processing (Open XML SDK)](https://learn.microsoft.com/en-us/office/open-xml/word-processing)
+31. []()
+32. []()
+33. []()
+34. []()
+35. []()
+36. []()
+37. []()
+38. []()
+39. []()
+40. []()
+
