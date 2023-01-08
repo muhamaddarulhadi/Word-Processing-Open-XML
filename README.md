@@ -34,14 +34,30 @@
 28. [how-to-add-tables-to-word-processing-documents](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-add-tables-to-word-processing-documents.md)
 29. [how-to-accept-all-revisions-in-a-word-processing-document](https://github.com/OfficeDev/open-xml-docs/blob/main/docs/how-to-accept-all-revisions-in-a-word-processing-document.md)
 30. [Word processing (Open XML SDK)](https://learn.microsoft.com/en-us/office/open-xml/word-processing)
-31. []()
-32. []()
-33. []()
-34. []()
-35. []()
-36. []()
-37. []()
-38. []()
-39. []()
-40. []()
+31. https://learn.microsoft.com/en-us/office/open-xml/word-processing
+32. https://learn.microsoft.com/en-us/office/open-xml/how-to-accept-all-revisions-in-a-word-processing-document
+33. https://learn.microsoft.com/en-us/dotnet/standard/linq/xml-shape-wordprocessingml-documents
+34. http://www.ludovicperrichon.com/create-a-word-document-with-openxml-and-c/
+35. https://www.c-sharpcorner.com/forums/how-to-convert-word-to-pdf-with-openxml
+36. https://learn.microsoft.com/en-us/office/open-xml/how-to-open-and-add-text-to-a-word-processing-document
+37. https://learn.microsoft.com/en-us/office/open-xml/how-to-open-a-word-processing-document-from-a-stream
+38. https://learn.microsoft.com/en-us/office/open-xml/how-to-open-a-word-processing-document-for-read-only-access
+39. https://learn.microsoft.com/en-us/office/open-xml/how-to-insert-a-table-into-a-word-processing-document
+40. https://www.codingame.com/playgrounds/11047/edit-word-documents-using-openxml-and-c-without-automationinterop
+41. https://learn.microsoft.com/en-us/office/open-xml/getting-started?redirectedfrom=MSDN
+42. https://sourceforge.net/projects/pdfcreator/
+43. https://stackoverflow.com/questions/607669/how-do-i-convert-word-files-to-pdf-programmatically
+44. https://www.c-sharpcorner.com/blogs/create-a-word-document-using-open-xml-sdk-20
+45. https://stackoverflow.com/questions/16194646/create-word-document-with-open-xml
+46. https://www.c-sharpcorner.com/blogs/add-borders-to-the-table-in-word-processing-document-using-open-xml-sdk-20
+47. https://www.c-sharpcorner.com/blogs/apply-bold-formatting-to-the-run-in-the-word-processing-document-using-open-xml-sdk-20
+48. https://www.c-sharpcorner.com/blogs/inserting-break-for-the-contents-inside-the-run-using-open-xml-sdk-20
+49. https://www.c-sharpcorner.com/blogs/apply-fontsize-for-the-contents-inside-the-run-using-open-xml-sdk-20
+50. https://www.c-sharpcorner.com/blogs/add-a-simple-table-to-the-word-processing-document-using-open-xml-sdk-20
+51. https://www.c-sharpcorner.com/blogs/apply-single-strikethrough-for-the-contents-inside-the-run-using-open-xml-sdk-20
+52. https://www.c-sharpcorner.com/blogs/apply-color-for-the-contents-inside-the-run-using-open-xml-sdk-20
+53. https://www.c-sharpcorner.com/article/read-and-write-open-xml-files-ms-office-2007/
+54. https://www.c-sharpcorner.com/blogs/create-anchor-text-link-in-a-word-processing-document-uuing-open-xml-sdk-20
+55. https://www.c-sharpcorner.com/blogs/create-a-word-document-using-open-xml-sdk-20
+
 
